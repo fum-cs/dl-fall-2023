@@ -17,7 +17,7 @@ title: Deep Learning Course
 tagline: Course website of DL, FUM
 description: DL Course website, Fall 2023, Dr. M. Amintoosi
 author: M. Amintoosi
-baseurl: '/gnn' # the subpath of your site, e.g. /blog
+baseurl: '/dl' # the subpath of your site, e.g. /blog
 url: 'https://fum-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
