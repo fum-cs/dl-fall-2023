@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Graph Neural Networks
+title: Deep Learning
 nav_exclude: true
 permalink: /:path/
 seo:
