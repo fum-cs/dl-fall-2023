@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Just the Class
+title: Graph Neural Networks
 nav_exclude: true
 permalink: /:path/
 seo:
