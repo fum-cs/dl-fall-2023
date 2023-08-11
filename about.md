@@ -25,7 +25,7 @@ Deep learning is a subfield of machine learning that uses algorithms inspired by
 
 This course uses various resources to teach the concepts and applications of deep learning. Some of these resources are:
 
-- [**Dive into Deep Learning**](https://d2l.ai/): A free online book that teaches deep neural networks using PyTorch and TensorFlow.
+- [**Dive into Deep Learning**](https://d2l.ai/): A free online book that teaches deep neural networks using PyTorch and TensorFlow. [Discuss](https://discuss.d2l.ai/)
 - [**Introduction to Deep Learning**](http://introtodeeplearning.com/): A course from MIT that covers the foundations of deep learning and its applications to computer vision, natural language processing, generative models, and reinforcement learning.
 - [**CS230 Deep Learning**](https://cs230.stanford.edu/): A course from Stanford that focuses on the practical aspects of deep learning, such as how to design, train, debug, and deploy neural networks.
 - [**CS231n Convolutional Neural Networks for Visual Recognition**](http://cs231n.stanford.edu/): A course from Stanford that covers the theory and practice of convolutional neural networks for image classification, object detection, segmentation, and generative models.

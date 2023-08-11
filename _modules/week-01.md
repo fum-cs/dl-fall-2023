@@ -5,7 +5,7 @@ title: References
 This course uses various resources to teach the concepts and applications of deep learning. Some of these resources are:
 
 1
-: [**Dive into Deep Learning**](https://d2l.ai/): A free online book that teaches deep neural networks using PyTorch and TensorFlow.
+: [**Dive into Deep Learning**](https://d2l.ai/): A free online book that teaches deep neural networks using PyTorch and TensorFlow. [Discuss](https://discuss.d2l.ai/)
 
 
 2
@@ -21,4 +21,7 @@ This course uses various resources to teach the concepts and applications of dee
 : [**CS182 Deep Reinforcement Learning**](https://inst.eecs.berkeley.edu/~cs182/sp23/): A course from UC Berkeley that introduces the basic concepts and algorithms of reinforcement learning and how to apply them to problems such as robotics, games, and natural language processing.
 
 6
+: [**TensorFlow vs PyTorch**](https://www.knowledgehut.com/blog/data-science/pytorch-vs-tensorflow): TensorFlow vs PyTorch: Deep Learning Frameworks, 2023
+
+7
 : [**Learn PyTorch**](https://www.learnpytorch.io/): A website that provides tutorials and examples on how to use PyTorch for various deep learning tasks.
