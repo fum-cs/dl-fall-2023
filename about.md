@@ -21,6 +21,8 @@ description: >-
 Welcome to our website dedicated to Deep Learning Course! 
 Deep learning is a subfield of machine learning that uses algorithms inspired by the structure and function of the human brain, called artificial neural networks. In this course, you will learn the basics of deep learning, and build your own deep neural networks using **PyTorch**. You will get practical experience with PyTorch through coding exercises and projects implementing state-of-the-art AI applications such as style transfer and text generation. You will also learn how to adjust hyperparameters, and tackle classification and regression problems. PyTorch is a Python-based scientific computing package that allows you to use the power of GPUs and other accelerators, and provides an automatic differentiation library that is useful to implement neural networks.
 
+Here, Learning is done by Doing :)
+
 ## References
 
 This course uses various resources to teach the concepts and applications of deep learning. Some of these resources are:
