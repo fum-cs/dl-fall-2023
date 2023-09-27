@@ -21,7 +21,7 @@ schedule:
     events:
       - name: Lecture
         start: 10:00 AM
-        end: 12:00 AM
+        end: 12:00 PM
         location: Room 7
   - name: Thursday
 ---
