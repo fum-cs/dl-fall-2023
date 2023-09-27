@@ -2,14 +2,12 @@
 layout: page
 title: Home / Lectures
 nav_order: 1
-description: A description of the content covered in the course.
+description: Listing of course modules and topics.
 currWeekNumber: 1
 ---
 
-# Deep Learning
-
 {: .mb-2 }
-Ferdowsi University of Mashhad, Fall 2023
+Ferdowsi University of Mashhad, Fall 2023 (1402 SH)
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
@@ -26,8 +24,8 @@ Ferdowsi University of Mashhad, Fall 2023
 > Welcome to Deep Learning Course!
 
 
-<a name="schedule"></a>
-## Schedule
+<a name="lectures"></a>
+## Lectures
 
 {% for module in site.modules %}
 {{ module }}
