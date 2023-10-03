@@ -34,4 +34,5 @@ This course uses various resources to teach the concepts and applications of dee
 
 ## Intro to Tensors
 
-- [GD_01.ipynb](https://colab.research.google.com/github/fum-cs/dl/blob/master/GD_01.ipynb)
+- [Tensors, Variables and Auto Grad](https://colab.research.google.com/github/fum-cs/dl/blob/main/code/01_Auto_Grad.ipynb)
+- [Regression, Gragient Descent](https://colab.research.google.com/github/fum-cs/dl/blob/main/code/02_Regression_Gradient_Descent.ipynb)
