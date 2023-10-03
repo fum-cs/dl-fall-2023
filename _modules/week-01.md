@@ -12,7 +12,7 @@ This course uses various resources to teach the concepts and applications of dee
 : [Hands On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O'Reilly Media](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
   : [Book](https://cloudflare-ipfs.com/ipfs/bafykbzaceae4tae6nlan27vd2g2df7mtkp7ikzs4bhywu4c7awmy6fhj2fk4w?filename=Aur%C3%A9lien%20G%C3%A9ron%20-%20Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow_%20Concepts%2C%20Tools%2C%20and%20Techniques%20to%20Build%20Intelligent%20Systems-O%27Reilly%20Media%20%282022%29.pdf) by Aurélien Géron, 2022, Part II.
 
-
+3
 : [**Dive into Deep Learning**](https://d2l.ai/): A free online book that teaches deep neural networks using PyTorch and TensorFlow. [Discuss](https://discuss.d2l.ai/)
 
 4
@@ -27,8 +27,6 @@ This course uses various resources to teach the concepts and applications of dee
 7
 : [**CS182 Deep Reinforcement Learning**](https://inst.eecs.berkeley.edu/~cs182/sp23/): A course from UC Berkeley that introduces the basic concepts and algorithms of reinforcement learning and how to apply them to problems such as robotics, games, and natural language processing.
 
-*
-: [**TensorFlow vs PyTorch**](https://www.knowledgehut.com/blog/data-science/pytorch-vs-tensorflow): TensorFlow vs PyTorch: Deep Learning Frameworks, 2023
+* [**TensorFlow vs PyTorch**](https://www.knowledgehut.com/blog/data-science/pytorch-vs-tensorflow): TensorFlow vs PyTorch: Deep Learning Frameworks, 2023
 
-*
-: [**Learn PyTorch**](https://www.learnpytorch.io/): A website that provides tutorials and examples on how to use PyTorch for various deep learning tasks.
+* [**Learn PyTorch**](https://www.learnpytorch.io/): A website that provides tutorials and examples on how to use PyTorch for various deep learning tasks.
