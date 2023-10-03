@@ -5,12 +5,12 @@ title: References
 This course uses various resources to teach the concepts and applications of deep learning. Some of these resources are:
 
 1
-: [**Dive into Deep Learning**](https://d2l.ai/): A free online book that teaches deep neural networks using PyTorch and TensorFlow. [Discuss](https://discuss.d2l.ai/)
-
-2
 : [**Deep Learning with Python**](https://www.manning.com/books/deep-learning-with-python-second-edition): Book by François Chollet, Second Edition
 
- : [PDF](https://download.bibis.ir/Books/Artificial-Intelligence/Deep-Learning/2021/Deep%20Learning%20with%20Python%20by%20Franc%CC%A7ois%20Chollet_bibis.ir.pdf)
+ : [PDF](https://fumdrive.um.ac.ir/index.php/f/4170834)
+
+2
+: [**Dive into Deep Learning**](https://d2l.ai/): A free online book that teaches deep neural networks using PyTorch and TensorFlow. [Discuss](https://discuss.d2l.ai/)
 
 3
 : [**Introduction to Deep Learning**](http://introtodeeplearning.com/): A course from MIT that covers the foundations of deep learning and its applications to computer vision, natural language processing, generative models, and reinforcement learning.
