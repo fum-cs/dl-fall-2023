@@ -3,7 +3,7 @@ title: Installation & Preliminaries
 ---
 
 1
-: [Dive into Deep Learning: Installation](https://d2l.ai/chapter_installation/index.html)
+: [Momentum](https://www.d2l.ai/chapter_optimization/momentum.html)
 
 2
 : [d2l package installation on google colab](https://stackoverflow.com/questions/76248695/d2l-package-installation-on-google-colab)
