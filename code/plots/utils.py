@@ -6,7 +6,6 @@ from mpl_toolkits.mplot3d import Axes3D
 from matplotlib.patches import Rectangle
 from matplotlib.collections import PatchCollection
 from sklearn.linear_model import LinearRegression
-import torch
 plt.style.use('fivethirtyeight')
 
 def mesh_losses(true_b, true_w, x_train, y_train):
@@ -395,14 +394,14 @@ def figure8(b, w, bs, ws, all_losses):
 def figure9(x_train, y_train, b, w):
     # Since we updated b and w, let's regenerate the initial ones
     # That's how using a random seed is useful, for instance
-    if torch.is_tensor(x_train):
-        x_train = x_train.detach().numpy()
-    if torch.is_tensor(y_train):
-        y_train = y_train.detach().numpy()
-    if torch.is_tensor(b):
-        b = b.detach().numpy()
-    if torch.is_tensor(w):
-        w = w.detach().numpy()
+    # if torch.is_tensor(x_train):
+    #     x_train = x_train.detach().numpy()
+    # if torch.is_tensor(y_train):
+    #     y_train = y_train.detach().numpy()
+    # if torch.is_tensor(b):
+    #     b = b.detach().numpy()
+    # if torch.is_tensor(w):
+    #     w = w.detach().numpy()
 
     np.random.seed(42)
     b_initial = np.random.randn(1)
