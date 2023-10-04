@@ -23,6 +23,12 @@ Deep learning is a subfield of machine learning that uses algorithms inspired by
 
 Here, Learning is done by Doing :)
 
+
+## <a name="Class-Time-and-Location"></a>Class time and Location
+
+Sunday 14:00-15:30 and Wednesday 10:00-11:30* (Fall 2023), Room 10. 
+
+
 ## References
 
 This course uses various resources to teach the concepts and applications of deep learning. Some of these resources are:
@@ -37,7 +43,25 @@ This course uses various resources to teach the concepts and applications of dee
 - [**CS182 Deep Reinforcement Learning**](https://inst.eecs.berkeley.edu/~cs182/sp23/): A course from UC Berkeley that introduces the basic concepts and algorithms of reinforcement learning and how to apply them to problems such as robotics, games, and natural language processing.
 - [**Learn PyTorch**](https://www.learnpytorch.io/): A website that provides tutorials and examples on how to use PyTorch for various deep learning tasks.
 
+## <a name="Grading"></a>Grading:
+* Homework – 40% <br>
+* Quizes – 40% <br>
+— Will consist of mathematical problems and/or programming assignments.
+* Endterm – 20%
+
+## <a name="Academic-Honor-Code"></a>Academic Honor Code:
+Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
+
+We will follow the standard of Faculty of Mathematical Sciences approach: 
+* You should not use code of others or be looking at code of others when you write your own: You can talk to people but have to write your own solution/code
+*  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit
+
+## <a name="Questions"></a>Questions?
+I will be having office hours for this course on Monday (10:00 AM--11:30 AM). If this is not convenient, email me at m.amintoosi@um.ac.ir or talk to me after class.
+
+## Our Slack workspace
 Come and [join our Slack](https://join.slack.com/t/fum-cs/shared_invite/zt-1zntzuw2t-JOWbsyQdGASNz~40AhWy_Q) group to engage in course discussions.
+
 
 <!-- ## Lecture
 
