@@ -35,6 +35,7 @@ This course uses various resources to teach the concepts and applications of dee
 
 - [**Deep Learning with Python**](https://www.manning.com/books/deep-learning-with-python-second-edition)
    by François Chollet, Second Edition, 2021
+   * [Jupyter notebooks for the code samples of the book "Deep Learning with Python"](https://github.com/fchollet/
 - [**Hands On Machine Learning with Scikit-Learn**, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems-O'Reilly Media](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), [Book](https://cloudflare-ipfs.com/ipfs/bafykbzaceae4tae6nlan27vd2g2df7mtkp7ikzs4bhywu4c7awmy6fhj2fk4w?filename=Aur%C3%A9lien%20G%C3%A9ron%20-%20Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow_%20Concepts%2C%20Tools%2C%20and%20Techniques%20to%20Build%20Intelligent%20Systems-O%27Reilly%20Media%20%282022%29.pdf) by Aurélien Géron, 2022, Part II.
 - [**Dive into Deep Learning**](https://d2l.ai/): A free online book that teaches deep neural networks using PyTorch and TensorFlow. [Discuss](https://discuss.d2l.ai/)
 - [**Introduction to Deep Learning**](http://introtodeeplearning.com/): A course from MIT that covers the foundations of deep learning and its applications to computer vision, natural language processing, generative models, and reinforcement learning.

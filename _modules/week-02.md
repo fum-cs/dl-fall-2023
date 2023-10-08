@@ -6,7 +6,7 @@ title: Autograd, Continue ...
 
 * Previous Codes
 * [Using autograd to Solve a Math Puzzle](https://machinelearningmastery.com/using-autograd-in-tensorflow-to-solve-a-regression-problem/)
-
+* **Colab**{: .label .label-green }[chapter02_mathematical-building-blocks](https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/chapter02_mathematical-building-blocks.ipynb)
 
 **Further Reading**{: .label .label-yellow }
 
