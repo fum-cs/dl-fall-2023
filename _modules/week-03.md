@@ -9,10 +9,10 @@ title: Linear Neural Networks for Regression
 : [Matrix Calculus](https://www.d2l.ai/chapter_preliminaries/calculus.html)
 
 3
-: [Matrix Derivative](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf)
+: [Matrix Derivative](https://atmos.washington.edu/~dennis/MatrixCalculus.pdf), [Wiki](https://en.wikipedia.org/wiki/Matrix_calculus#Layout_conventions)
 
 4
-:[Momentum](https://www.d2l.ai/chapter_optimization/momentum.html)
+: [Momentum](https://www.d2l.ai/chapter_optimization/momentum.html)
 
 **Further Reading**{: .label .label-yellow }
 
