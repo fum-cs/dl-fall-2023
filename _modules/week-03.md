@@ -1,5 +1,5 @@
 ---
-title: Installation & Preliminaries
+title: Linear Neural Networks for Regression
 ---
 
 1
