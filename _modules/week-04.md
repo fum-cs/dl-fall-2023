@@ -7,14 +7,14 @@ title: Gradient Descent and its variants, continue ...
 
 * [The Application of Taylor Expansion in Reducing the Size of Convolutional Neural Networks for Classifying Impressionism and Miniature Style Paintings](https://fumcs.github.io/publications/#TaylorExpansion_in_CNN_prunning99) (کاربرد بسط تیلور در کاهش حجم شبکه های عصبی پیچشی برای طبقه بندی نقاشی های سبک امپرسیونیسم و مینیاتور
 )
-* [Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/sgd.html)
-* [Minibatch Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/minibatch-sgd.html)
-* [Momentum](https://www.d2l.ai/chapter_optimization/momentum.html)
-* [Visualization of Momentum](https://milania.de/blog/Introduction_to_neural_network_optimizers_%5Bpart_1%5D_%E2%80%93_momentum_optimization)
 
 TBA 
 
 ## 1402/08
+* [Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/sgd.html)
+* [Minibatch Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/minibatch-sgd.html)
+* [Momentum](https://www.d2l.ai/chapter_optimization/momentum.html)
+* [Visualization of Momentum](https://milania.de/blog/Introduction_to_neural_network_optimizers_%5Bpart_1%5D_%E2%80%93_momentum_optimization)
 
 **Further Reading**{: .label .label-yellow }
 
