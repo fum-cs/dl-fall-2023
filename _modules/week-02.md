@@ -12,4 +12,4 @@ title: Autograd, Continue ...
 
 * [Automatic Differentiation Using Gradient Tapes](https://gowrishankar.info/blog/automatic-differentiation-using-gradient-tapes/)
 * [Introduction to gradients and automatic differentiation](https://www.tensorflow.org/guide/autodiff)
-*‌ [Advanced automatic differentiation](https://www.tensorflow.org/guide/advanced_autodiff)
+* [Advanced automatic differentiation](https://www.tensorflow.org/guide/advanced_autodiff)
