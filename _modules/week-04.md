@@ -8,6 +8,15 @@ title: Gradient Descent and its variants, continue ...
 * [The Application of Taylor Expansion in Reducing the Size of Convolutional Neural Networks for Classifying Impressionism and Miniature Style Paintings](https://fumcs.github.io/publications/#TaylorExpansion_in_CNN_prunning99) (کاربرد بسط تیلور در کاهش حجم شبکه های عصبی پیچشی برای طبقه بندی نقاشی های سبک امپرسیونیسم و مینیاتور
 )
 
+**HW1**{: .label .label-red } [Real Time Sudoku Solver](https://vu.um.ac.ir/mod/assign/view.php?id=454184), due: 1402/08/04
+
+**HW2**{: .label .label-red } [Generate Persian Sudoku](https://vu.um.ac.ir/mod/assign/view.php?id=454185), due: 1402/08/08
+
+**Further Reading**{: .label .label-yellow }
+* [Algorithm X](https://mamintoosi.github.io/slides/topics/DLX/DLX.html)
+
+
+
 TBA 
 
 ## 1402/08
