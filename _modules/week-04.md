@@ -8,33 +8,42 @@ title: Gradient Descent and its variants, continue ...
 * [The Application of Taylor Expansion in Reducing the Size of Convolutional Neural Networks for Classifying Impressionism and Miniature Style Paintings](https://fumcs.github.io/publications/#TaylorExpansion_in_CNN_prunning99) (کاربرد بسط تیلور در کاهش حجم شبکه های عصبی پیچشی برای طبقه بندی نقاشی های سبک امپرسیونیسم و مینیاتور
 )
 
-**HW1**{: .label .label-red } [Real Time Sudoku Solver](https://vu.um.ac.ir/mod/assign/view.php?id=454184), due: 1402/08/04
+**HW1**{: .label .label-red } [Real Time Sudoku Solver](https://vu.um.ac.ir/mod/assign/view.php?id=454184), due: ~~1402/08/04~~,
+The deadline for the assignment submission has been extended to 1402/08/12 with a 10 percent penalty for each day of delay from 08/04. 
 
-**HW2**{: .label .label-red } [Generate Persian Sudoku](https://vu.um.ac.ir/mod/assign/view.php?id=454185), due: 1402/08/08
+**HW2**{: .label .label-red } [Generate Persian Sudoku](https://vu.um.ac.ir/mod/assign/view.php?id=454185), due: ~~1402/08/08~~ Extended until 1402/08/13
 
 **Further Reading**{: .label .label-yellow }
 * [Algorithm X](https://mamintoosi.github.io/slides/topics/DLX/DLX.html)
 
 
 
-## 1402/08/06
+## 1402/08/07
 
 * Momentum 
-    - [Momentum](https://www.d2l.ai/chapter_optimization/momentum.html)
+    - [Momentum](https://www.d2l.ai/chapter_optimization/momentum.html), Until 12.6.1.4
+
+* [Chapter 2: The mathematical building blocks of neural networks](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter02_mathematical-building-blocks.ipynb)
+
+**Further Reading**{: .label .label-yellow }
+* Momentum 
     - [Visualization of Momentum](https://milania.de/blog/Introduction_to_neural_network_optimizers_%5Bpart_1%5D_%E2%80%93_momentum_optimization)
     - distill: [Why Momentum Really Works?](https://distill.pub/2017/momentum/)
 
-* [Chapter 2: The mathematical building blocks of neural networks](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter02_mathematical-building-blocks.ipynb)
-* [Chapter 3: Introduction to Keras and TensorFlow](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter03_introduction-to-keras-and-tf.ipynb)
-
-
-**Further Reading**{: .label .label-yellow }
 * [Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/sgd.html)
 * [Minibatch Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/minibatch-sgd.html)
 * [Binary Accuracy](https://www.tensorflow.org/api_docs/python/tf/keras/metrics/BinaryAccuracy)
 
+## 1402/08/09
+
+Class Canceled
 
 TBA 
+
+## 1402/08/13
+
+* [Chapter 3: Introduction to Keras and TensorFlow](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter03_introduction-to-keras-and-tf.ipynb)
+
 
 **Further Reading**{: .label .label-yellow }
 
