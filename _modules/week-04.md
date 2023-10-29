@@ -34,13 +34,13 @@ The deadline for the assignment submission has been extended to 1402/08/12 with 
 * [Minibatch Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/minibatch-sgd.html)
 * [Binary Accuracy](https://www.tensorflow.org/api_docs/python/tf/keras/metrics/BinaryAccuracy)
 
-## 1402/08/09
+## 1402/08/10
 
 Class Canceled
 
 TBA 
 
-## 1402/08/13
+## 1402/08/14
 
 * [Chapter 3: Introduction to Keras and TensorFlow](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter03_introduction-to-keras-and-tf.ipynb)
 
