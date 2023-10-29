@@ -17,13 +17,24 @@ title: Gradient Descent and its variants, continue ...
 
 
 
-TBA 
+## 1402/08/06
 
-## 1402/08
+* Momentum 
+    - [Momentum](https://www.d2l.ai/chapter_optimization/momentum.html)
+    - [Visualization of Momentum](https://milania.de/blog/Introduction_to_neural_network_optimizers_%5Bpart_1%5D_%E2%80%93_momentum_optimization)
+    - distill: [Why Momentum Really Works?](https://distill.pub/2017/momentum/)
+
+* [Chapter 2: The mathematical building blocks of neural networks](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter02_mathematical-building-blocks.ipynb)
+* [Chapter 3: Introduction to Keras and TensorFlow](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter03_introduction-to-keras-and-tf.ipynb)
+
+
+**Further Reading**{: .label .label-yellow }
 * [Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/sgd.html)
 * [Minibatch Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/minibatch-sgd.html)
-* [Momentum](https://www.d2l.ai/chapter_optimization/momentum.html)
-* [Visualization of Momentum](https://milania.de/blog/Introduction_to_neural_network_optimizers_%5Bpart_1%5D_%E2%80%93_momentum_optimization)
+* [Binary Accuracy](https://www.tensorflow.org/api_docs/python/tf/keras/metrics/BinaryAccuracy)
+
+
+TBA 
 
 **Further Reading**{: .label .label-yellow }
 
