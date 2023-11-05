@@ -32,18 +32,22 @@ The deadline for the assignment submission has been extended to 1402/08/12 with 
 
 * [Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/sgd.html)
 * [Minibatch Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/minibatch-sgd.html)
-* [Binary Accuracy](https://www.tensorflow.org/api_docs/python/tf/keras/metrics/BinaryAccuracy)
 
 ## 1402/08/10
 
 Class Canceled
 
-TBA 
 
 ## 1402/08/14
 
 * [Chapter 3: Introduction to Keras and TensorFlow](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter03_introduction-to-keras-and-tf.ipynb)
-* [Getting started with neural networks: Classification and regression](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter04_getting-started-with-neural-networks.ipynb)
+* [Binary Accuracy](https://www.tensorflow.org/api_docs/python/tf/keras/metrics/BinaryAccuracy)
+
+TBA 
+
+## 1402/08/21
+
+* [Chapter 4: Getting started with neural networks: Classification and regression](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter04_getting-started-with-neural-networks.ipynb)
 * [Entropy (information theory)](https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AA%D8%B1%D9%88%D9%BE%DB%8C_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA)
 * [Binary Cross Entropy/Log Loss for Binary Classification](https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy-log-loss-for-binary-classification/)
 * [Sreenivas Bhattiprolu, python for microscopists](https://github.com/bnsreenu/python_for_microscopists), Many examples of TF
