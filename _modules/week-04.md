@@ -43,7 +43,9 @@ Class Canceled
 * [Chapter 3: Introduction to Keras and TensorFlow](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter03_introduction-to-keras-and-tf.ipynb)
 * [Binary Accuracy](https://www.tensorflow.org/api_docs/python/tf/keras/metrics/BinaryAccuracy)
 
-**HW2**{: .label .label-red } [Modify the code of Chap. 3](https://vu.um.ac.ir/mod/assign/view.php?id=458660), due: 1402/08/20
+**HW3**{: .label .label-red } [Modify the code of Chap. 3](https://vu.um.ac.ir/mod/assign/view.php?id=458660), due: 1402/08/20
+
+**HW4**{: .label .label-red } [Using autograd to Solve a Math Puzzle](https://vu.um.ac.ir/mod/assign/view.php?id=458994), due: 1402/08/23
 
 TBA 
 
