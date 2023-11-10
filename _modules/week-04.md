@@ -53,6 +53,7 @@ TBA
 
 * [Chapter 4: Getting started with neural networks: Classification and regression](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter04_getting-started-with-neural-networks.ipynb)
 * [Entropy (information theory)](https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AA%D8%B1%D9%88%D9%BE%DB%8C_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA)
+* [TF-IDF in NLP](https://www.dropbox.com/s/47s8r64yt41186q/TFIDF.zip?dl=1)
 * [Binary Cross Entropy/Log Loss for Binary Classification](https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy-log-loss-for-binary-classification/)
 * [Sreenivas Bhattiprolu, python for microscopists](https://github.com/bnsreenu/python_for_microscopists), Many examples of TF
 

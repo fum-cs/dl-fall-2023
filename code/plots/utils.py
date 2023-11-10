@@ -38,6 +38,35 @@ def mesh_losses(true_b, true_w, x_train, y_train):
     # all_losses.shape
     return bs, ws, all_losses
 
+def mesh_losses_x2(true_b, true_w, x_train, y_train):
+    # Reminder:
+    # true_b = 1
+    # true_w = 2
+    if x_train.shape[1] == 2:
+        x_train = np.delete(x_train,0,axis=1)
+
+    # we have to split the ranges in 100 evenly spaced intervals each
+    b_range = np.linspace(true_b - 3, true_b + 3, 101)
+    w_range = np.linspace(true_w - 3, true_w + 3, 101)
+    # meshgrid is a handy function that generates a grid of b and w
+    # values for all combinations
+    bs, ws = np.meshgrid(b_range, w_range)
+    # bs.shape, ws.shape
+    sample_x = x_train[0]
+    # sample_yhat = bs + ws * sample_x
+    # sample_yhat.shape
+    all_predictions = np.apply_along_axis(
+        func1d=lambda x: bs + ws * x**2, 
+        axis=1, 
+        arr=x_train
+    )
+    # all_predictions.shape
+    all_labels = y_train.reshape(-1, 1, 1)
+    all_errors = (all_predictions - all_labels)
+    # all_errors.shape
+    all_losses = (all_errors ** 2).mean(axis=0)
+    # all_losses.shape
+    return bs, ws, all_losses
 
 def fit_model(x_train, y_train):
     # Fits a linear regression to find the actual b and w that minimize the loss
