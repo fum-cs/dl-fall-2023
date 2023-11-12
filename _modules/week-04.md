@@ -55,7 +55,10 @@ Class Canceled
 * [CE and Acc](misc/LossAccExample.png)
 
 **Further Reading**{: .label .label-yellow }
-
+* [The Application of Taylor Expansion in Reducing the Size of Convolutional Neural Networks for Classifying Impressionism and Miniature Style Paintings](https://math-sci.ui.ac.ir/article_25351.html)
+    - [Response to reviewer comments, round 1](misc/CNN-Pruning/پاسخ به نظرات داور گرامی-۱.pdf)
+    - [Response to reviewer comments, round 2](misc/CNN-Pruning/پاسخ به نظرات داور گرامی-۲.pdf)
+    - [Response to reviewer comments, round 3](misc/CNN-Pruning/پاسخ به نظرات داور گرامی-۳.pdf)
 * [Sreenivas Bhattiprolu, python for microscopists](https://github.com/bnsreenu/python_for_microscopists), Many examples of TF
 * [TF-IDF in NLP](https://www.dropbox.com/s/47s8r64yt41186q/TFIDF.zip?dl=1)
 
