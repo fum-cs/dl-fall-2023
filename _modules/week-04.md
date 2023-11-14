@@ -47,12 +47,13 @@ Class Canceled
 
 **HW4**{: .label .label-red } [Using autograd to Solve a Math Puzzle](https://vu.um.ac.ir/mod/assign/view.php?id=458994), due: 1402/08/23
 
-## 1402/08/21
+## 1402/08/21,24
 
 * [Chapter 4: Getting started with neural networks: Classification and regression](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter04_getting-started-with-neural-networks.ipynb)
 * [Entropy (information theory)](https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AA%D8%B1%D9%88%D9%BE%DB%8C_%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA)
 * [Binary Cross Entropy/Log Loss for Binary Classification](https://www.analyticsvidhya.com/blog/2021/03/binary-cross-entropy-log-loss-for-binary-classification/)
 * [CE and Acc](misc/LossAccExample.png)
+* [Sigmoid, Softmax](https://themaverickmeerkat.com/2019-10-23-Softmax/)
 
 **Further Reading**{: .label .label-yellow }
 * [The Application of Taylor Expansion in Reducing the Size of Convolutional Neural Networks for Classifying Impressionism and Miniature Style Paintings](https://math-sci.ui.ac.ir/article_25351.html)
