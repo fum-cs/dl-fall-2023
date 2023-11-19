@@ -74,7 +74,7 @@ Class Canceled
 
 * [playground.tensorflow.org](https://playground.tensorflow.org/)
 * [Sigmoid, Softmax](https://themaverickmeerkat.com/2019-10-23-Softmax/)
-* [Fully Connected to Fully Convolutional: Road to Yesterday](https://fumcs.github.io/publications/#FC2FC_2022)(تمام متصل به تمام پیچشی: پلی به گذشته)
+* [Fully Connected to Fully Convolutional: Road to Yesterday](https://github.com/mamintoosi/FC2FC)(تمام متصل به تمام پیچشی: پلی به گذشته)
 * [Classification, Object Detection and Image Segmentation](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk/learning-resources/image-segmentation-deeplab-neural-processing-sdk/classification-object-detection-segmentation)
 * [What is the difference between object detection, semantic segmentation and localization?](https://cs.stackexchange.com/questions/51387/what-is-the-difference-between-object-detection-semantic-segmentation-and-local)
 * [Difference Between Face Detection and Face Recognition](http://www.differencebetween.net/technology/difference-between-face-detection-and-face-recognition/)
