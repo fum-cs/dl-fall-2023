@@ -71,17 +71,19 @@ Class Canceled
 * [Artificial Neural Networks](https://www.bpesquet.fr/mlhandbook/algorithms/artificial_neural_networks.html)
 
 ## 1402/08/28
+**HW5**{: .label .label-red } [N-Rook in Chess with auto-grad](https://vu.um.ac.ir/mod/assign/view.php?id=459379), due: 1402/08/30
 
-* [playground.tensorflow.org](https://playground.tensorflow.org/)
+**HW6**{: .label .label-red } [Real Time Sudoku Solver with Persian Digits](https://vu.um.ac.ir/mod/assign/view.php?id=461848), due: 1402/09/04
+
 * [Sigmoid, Softmax](https://themaverickmeerkat.com/2019-10-23-Softmax/)
 * [Fully Connected to Fully Convolutional: Road to Yesterday](https://github.com/mamintoosi/FC2FC)(تمام متصل به تمام پیچشی: پلی به گذشته)
 * [Classification, Object Detection and Image Segmentation](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk/learning-resources/image-segmentation-deeplab-neural-processing-sdk/classification-object-detection-segmentation)
 * [What is the difference between object detection, semantic segmentation and localization?](https://cs.stackexchange.com/questions/51387/what-is-the-difference-between-object-detection-semantic-segmentation-and-local)
 * [Difference Between Face Detection and Face Recognition](http://www.differencebetween.net/technology/difference-between-face-detection-and-face-recognition/)
 
-**HW5**{: .label .label-red } [N-Rook in Chess with auto-grad](https://vu.um.ac.ir/mod/assign/view.php?id=459379), due: 1402/08/30
+**Further Reading**{: .label .label-yellow }
 
-**HW6**{: .label .label-red } [Real Time Sudoku Solver with Persian Digits](https://vu.um.ac.ir/mod/assign/view.php?id=461848), due: 1402/09/04
+* [Minibatch Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/minibatch-sgd.html)
 
 
 # TBA 
