@@ -71,9 +71,10 @@ Class Canceled
 * [Artificial Neural Networks](https://www.bpesquet.fr/mlhandbook/algorithms/artificial_neural_networks.html)
 
 ## 1402/08/28
-**HW5**{: .label .label-red } [N-Rook in Chess with auto-grad](https://vu.um.ac.ir/mod/assign/view.php?id=459379), due: 1402/08/30
 
-**HW6**{: .label .label-red } [Real Time Sudoku Solver with Persian Digits](https://vu.um.ac.ir/mod/assign/view.php?id=461848), due: 1402/09/04
+**HW5**{: .label .label-red } [Real Time Sudoku Solver with Persian Digits](https://vu.um.ac.ir/mod/assign/view.php?id=461848), due: 1402/09/04
+
+**HW6**{: .label .label-red } [N-Rook in Chess with auto-grad](https://vu.um.ac.ir/mod/assign/view.php?id=459379), due: 1402/09/09
 
 * [Sigmoid, Softmax](https://themaverickmeerkat.com/2019-10-23-Softmax/)
 * [Fully Connected to Fully Convolutional: Road to Yesterday](https://github.com/mamintoosi/FC2FC)(تمام متصل به تمام پیچشی: پلی به گذشته)
@@ -84,7 +85,8 @@ Class Canceled
 **Further Reading**{: .label .label-yellow }
 
 * [Minibatch Stochastic Gradient Descent](https://www.d2l.ai/chapter_optimization/minibatch-sgd.html)
-
+* [Minibatch Stochastic Gradient Descent on Apple Leaves in FC2FC](https://colab.research.google.com/github/mamintoosi/FC2FC/blob/main/FC2FC_PlantDisease_batch.ipynb)
+* [Softmax function (Wiki)](https://en.wikipedia.org/wiki/Softmax_function)
 
 # TBA 
 
