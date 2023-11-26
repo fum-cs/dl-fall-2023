@@ -5,7 +5,7 @@ title: Gradient Descent and its variants, continue ...
 
 ## 1402/07/30
 
-* [The Application of Taylor Expansion in Reducing the Size of Convolutional Neural Networks for Classifying Impressionism and Miniature Style Paintings](https://fumcs.github.io/publications/#TaylorExpansion_in_CNN_prunning99) (کاربرد بسط تیلور در کاهش حجم شبکه های عصبی پیچشی برای طبقه بندی نقاشی های سبک امپرسیونیسم و مینیاتور
+**Paper**{: .label .label-blue } [The Application of Taylor Expansion in Reducing the Size of Convolutional Neural Networks for Classifying Impressionism and Miniature Style Paintings](https://fumcs.github.io/publications/#TaylorExpansion_in_CNN_prunning99) (کاربرد بسط تیلور در کاهش حجم شبکه های عصبی پیچشی برای طبقه بندی نقاشی های سبک امپرسیونیسم و مینیاتور
 )
 
 **HW1**{: .label .label-red } [Real Time Sudoku Solver](https://vu.um.ac.ir/mod/assign/view.php?id=454184), due: ~~1402/08/04~~,
@@ -76,8 +76,9 @@ Class Canceled
 
 **HW6**{: .label .label-red } [N-Rook in Chess with auto-grad](https://vu.um.ac.ir/mod/assign/view.php?id=459379), due: 1402/09/09
 
+**Paper**{: .label .label-blue } [Fully Connected to Fully Convolutional: Road to Yesterday](https://github.com/mamintoosi/FC2FC)(تمام متصل به تمام پیچشی: پلی به گذشته)
+
 * [Sigmoid, Softmax](https://themaverickmeerkat.com/2019-10-23-Softmax/)
-* [Fully Connected to Fully Convolutional: Road to Yesterday](https://github.com/mamintoosi/FC2FC)(تمام متصل به تمام پیچشی: پلی به گذشته)
 * [Classification, Object Detection and Image Segmentation](https://developer.qualcomm.com/software/qualcomm-neural-processing-sdk/learning-resources/image-segmentation-deeplab-neural-processing-sdk/classification-object-detection-segmentation)
 * [What is the difference between object detection, semantic segmentation and localization?](https://cs.stackexchange.com/questions/51387/what-is-the-difference-between-object-detection-semantic-segmentation-and-local)
 * [Difference Between Face Detection and Face Recognition](http://www.differencebetween.net/technology/difference-between-face-detection-and-face-recognition/)
