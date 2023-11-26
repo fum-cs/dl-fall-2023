@@ -94,5 +94,5 @@ Class Canceled
 
 **Further Reading**{: .label .label-yellow }
 
-* [Understanding Normalisation Methods In Deep Learning](https://analyticsindiamag.com/
-* [Batch Normalization](https://d2l.ai/chapter_convolutional-modern/batch-norm.html)understanding-normalization-methods-in-deep-learning/)
+* [Understanding Normalisation Methods In Deep Learning](https://analyticsindiamag.com/understanding-normalization-methods-in-deep-learning/)
+* [Batch Normalization](https://d2l.ai/chapter_convolutional-modern/batch-norm.html)

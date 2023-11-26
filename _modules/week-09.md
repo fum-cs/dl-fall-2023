@@ -24,3 +24,6 @@ Whether it is medical diagnosis, self-driving vehicles, camera monitoring, or sm
 
 7
 : [The Object Detection Dataset](https://d2l.ai/chapter_computer-vision/object-detection-dataset.html)
+
+* [How to Find Wally with a Neural Network?](https://github.com/tadejmagajna/HereIsWally)
+    - Use GAN to produce a chaotic scenes including Wally
