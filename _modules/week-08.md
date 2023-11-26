@@ -2,10 +2,8 @@
 title: Convolutional Neural Networks
 ---
 
-1
-: [Convolutional Neural Networks](https://d2l.ai/chapter_convolutional-neural-networks/index.html)
+* [Chapter 8 of Deep Learning with Python: Introduction to deep learning for computer vision](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD)
+* [Convolutional Neural Networks](https://d2l.ai/chapter_convolutional-neural-networks/index.html)
+* [Networks Using Blocks (VGG)](https://d2l.ai/chapter_convolutional-modern/vgg.html)
 
-This chapter introduces convolutional neural networks (CNNs) (LeCun et al., 1995), a powerful family of neural networks that are designed for precisely this purpose. CNN-based architectures are now ubiquitous in the field of computer vision
-
-2
-: [Networks Using Blocks (VGG)](https://d2l.ai/chapter_convolutional-modern/vgg.html)
+**Paper**{: .label .label-blue } [Convolutional Neural Networks Are Not Invariant to Translation, but They Can Learn to Be](https://jmlr.org/papers/v22/21-0019.html)
