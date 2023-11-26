@@ -14,3 +14,5 @@ title: Convolutional Neural Networks
 **Further Reading**{: .label .label-yellow }
 
 **Paper**{: .label .label-blue } [Convolutional Neural Networks Are Not Invariant to Translation, but They Can Learn to Be](https://jmlr.org/papers/v22/21-0019.html)
+
+[Stanford, CS230](https://stanford.edu/~shervine/l/fa/teaching/cs-230/)
