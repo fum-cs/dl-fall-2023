@@ -9,6 +9,3 @@ This chapter introduces convolutional neural networks (CNNs) (LeCun et al., 1995
 
 2
 : [Networks Using Blocks (VGG)](https://d2l.ai/chapter_convolutional-modern/vgg.html)
-
-3
-: [Batch Normalization](https://d2l.ai/chapter_convolutional-modern/batch-norm.html)
