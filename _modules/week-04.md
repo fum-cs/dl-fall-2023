@@ -92,8 +92,3 @@ Class Canceled
 ## 1402/09/05
 
 * [Chapter 4: Getting started with neural networks: Classification and regression](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter04_getting-started-with-neural-networks.ipynb)
-
-**Further Reading**{: .label .label-yellow }
-
-* [Understanding Normalisation Methods In Deep Learning](https://analyticsindiamag.com/understanding-normalization-methods-in-deep-learning/)
-* [Batch Normalization](https://d2l.ai/chapter_convolutional-modern/batch-norm.html)
