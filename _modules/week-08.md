@@ -2,6 +2,9 @@
 title: Convolutional Neural Networks
 ---
 
+## 1402/09/08
+
+* [Classical Convolutional Neural Networks](https://connectjaya.com/classical-convolutional-neural-networkscnn/)
 * [Chapter 8 of Deep Learning with Python: Introduction to deep learning for computer vision](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD)
 * [Convolutional Neural Networks](https://d2l.ai/chapter_convolutional-neural-networks/index.html)
 * [Networks Using Blocks (VGG)](https://d2l.ai/chapter_convolutional-modern/vgg.html)
