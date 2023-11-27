@@ -4,6 +4,7 @@ title: Convolutional Neural Networks
 
 ## 1402/09/08
 
+* [Slides](https://mamintoosi.github.io/slides/topics/DL-TF/Chapter8-Introductio-to-Deep-learning-for-Computer-Vision.html)
 * [Classical Convolutional Neural Networks](https://connectjaya.com/classical-convolutional-neural-networkscnn/)
 * [Chapter 8 of Deep Learning with Python: Introduction to deep learning for computer vision](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD)
 * [Convolutional Neural Networks](https://d2l.ai/chapter_convolutional-neural-networks/index.html)
@@ -18,4 +19,4 @@ title: Convolutional Neural Networks
 
 **Paper**{: .label .label-blue } [Convolutional Neural Networks Are Not Invariant to Translation, but They Can Learn to Be](https://jmlr.org/papers/v22/21-0019.html)
 
-[Stanford, CS230](https://stanford.edu/~shervine/l/fa/teaching/cs-230/)
+* [Stanford, CS230](https://stanford.edu/~shervine/l/fa/teaching/cs-230/)
