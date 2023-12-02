@@ -9,3 +9,4 @@ _site/
 node_modules/
 vendor/
 code/plots/__pycache__/
+code/output/*

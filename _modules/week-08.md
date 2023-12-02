@@ -2,7 +2,7 @@
 title: Convolutional Neural Networks
 ---
 
-## 1402/09/08
+## 1402/09/08, 12
 
 * [Slides](https://mamintoosi.github.io/slides/topics/DL-TF/Chapter8-Introductio-to-Deep-learning-for-Computer-Vision.html)
 * [Classical Convolutional Neural Networks](https://connectjaya.com/classical-convolutional-neural-networkscnn/)
@@ -17,6 +17,9 @@ title: Convolutional Neural Networks
 
 **Further Reading**{: .label .label-yellow }
 
+**Paper**{: .label .label-blue } [Deep Image Deblurring: A Survey](https://arxiv.org/pdf/2201.10700.pdf)
+
 **Paper**{: .label .label-blue } [Convolutional Neural Networks Are Not Invariant to Translation, but They Can Learn to Be](https://jmlr.org/papers/v22/21-0019.html)
 
 * [Stanford, CS230](https://stanford.edu/~shervine/l/fa/teaching/cs-230/)
+* [Github: PyTorch implementation of image deblurring using deep learning](https://github.com/sovit-123/image-deblurring-using-deep-learning/tree/master)
