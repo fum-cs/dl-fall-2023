@@ -15,6 +15,8 @@ title: Projects & Seminars
   - [Image to LaTeX](https://github.com/kingyiusuen/image-to-latex) using CNN & RNN
   - [im2latex tensorflow implementation](https://github.com/ritheshkumar95/im2latex-tensorflow)
 
+* [ Knight Tour Problem Using Neural Networks](https://github.com/NiloofarShahbaz/knight-tour-neural-network)
+
 * [Deployment a DL app](https://fullstackdeeplearning.com/course/2022/lecture-5-deployment/)  
 
 * [Differentiable Convex Optimization Layers](https://locuslab.github.io/2019-10-28-cvxpylayers/)

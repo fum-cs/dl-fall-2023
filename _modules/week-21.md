@@ -21,3 +21,6 @@ title: Theoretical Foundations for Deep Learning
 5
 : [What Breaks The Curse of Dimensionality in Deep Learning?](https://openreview.net/forum?id=KAV7BDCcN6)
   : [Rejected paper in openreview]()
+
+6
+: [Engineering Optimization: Theory and Applications](https://www.biblio.com/book/engineering-optimization-theory-applications-rao-ss/d/861517300), by S.S. Rao, 1978

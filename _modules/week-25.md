@@ -2,9 +2,10 @@
 title: Miscellaneous
 ---
 
-* [What autodiff is?](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/readings/L06%20Automatic%20Differentiation.pdf)
-    - [Autograd](https://github.com/HIPS/autograd/tree/master)
+* [Combinatorial optimization with physics-inspired graph neural networks](https://www.nature.com/articles/s42256-022-00468-6)
+    - [Combinatorial Optimization with Graph Neural Networks](https://github.com/amazon-science/co-with-gnns-example/)
+    - [Reply to: Inability of a graph neural network heuristic to outperform greedy algorithms in solving combinatorial optimization problems](https://www.nature.com/articles/s42256-022-00588-z)
+    - [Reply to: Modern graph neural networks do worse than classical greedy algorithms in solving combinatorial optimization problems like maximum independent set](https://www.nature.com/articles/s42256-022-00590-5)
 
-* Book: [Engineering Optimization: Theory and Applications](https://www.biblio.com/book/engineering-optimization-theory-applications-rao-ss/d/861517300), by S.S. Rao, 1978
-
-* [ Knight Tour Problem Using Neural Networks](https://github.com/NiloofarShahbaz/knight-tour-neural-network)
+* [Discovering novel algorithms with AlphaTensor](https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/)
+    - [Github](https://github.com/google-deepmind/alphatensor)
