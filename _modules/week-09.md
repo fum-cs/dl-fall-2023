@@ -1,29 +1,24 @@
 ---
-title: Computer Vision
+title: Generative Adversarial Networks
 ---
 
 1
-: [Computer Vision](https://d2l.ai/chapter_computer-vision/index.html)
-
-Whether it is medical diagnosis, self-driving vehicles, camera monitoring, or smart filters, many applications in the field of computer vision are closely related to our current and future lives
+: [Generative Adversarial Networks (Persian)](https://howsam.org/generative-adversarial-network/)
 
 2
-: [Image Augmentation](https://d2l.ai/chapter_computer-vision/image-augmentation.html)
+: [How to Develop a 1D Generative Adversarial Network From Scratch in Keras](https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-1-dimensional-function-from-scratch-in-keras/)
+    : **Colab**{: .label .label-green }[GAN-01](https://colab.research.google.com/github/fum-cs/dl/blob/main/code/GAN/GAN-01.ipynb)
 
 3
-: [Fine-Tuning](https://d2l.ai/chapter_computer-vision/fine-tuning.html)
+: [arxiv: Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm](https://arxiv.org/pdf/2309.02340.pdf)
+    : [github](https://github.com/ai4netzero/Infinite_Texture_GANs)
 
 4
-: [Object Detection and Bounding Boxes](https://d2l.ai/chapter_computer-vision/bounding-box.html)
+: [GAN tutorial on Medium](https://github.com/mpstewart1/GAN-Tutorial)
 
 5
-: [Anchor Boxes](https://d2l.ai/chapter_computer-vision/anchor.html)
+: [Deep Convolutional Generative Adversarial Networks](https://d2l.ai/chapter_generative-adversarial-networks/dcgan.html)
 
 6
-: [Multiscale Object Detection](https://d2l.ai/chapter_computer-vision/multiscale-object-detection.html)
-
-7
-: [The Object Detection Dataset](https://d2l.ai/chapter_computer-vision/object-detection-dataset.html)
-
-* [How to Find Wally with a Neural Network?](https://github.com/tadejmagajna/HereIsWally)
-    - Use GAN to produce a chaotic scenes including Wally
+:
+: [Generative Adversarial Networks (d2l)](https://d2l.ai/chapter_generative-adversarial-networks/index.html)
