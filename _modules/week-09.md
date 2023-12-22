@@ -10,15 +10,23 @@ title: Generative Adversarial Networks
     : **Colab**{: .label .label-green }[GAN-01](https://colab.research.google.com/github/fum-cs/dl/blob/main/code/GAN/GAN-01.ipynb)
 
 3
-: [arxiv: Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm](https://arxiv.org/pdf/2309.02340.pdf)
-    : [github](https://github.com/ai4netzero/Infinite_Texture_GANs)
+: [Section 12.4 of Deep Learning with Python: Variational Autoencoders](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD)
+    : **Colab**{: .label .label-green }[Variational autoencoders](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter12_part04_variational-autoencoders.ipynb)
 
 4
+: [Section 12.4 of Deep Learning with Python: Generative adversarial networks](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD)
+    : **Colab**{: .label .label-green }[Generative adversarial networks](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter12_part05_gans.ipynb)
+
+**Further Reading**{: .label .label-yellow }
+
+* **Paper**{: .label .label-blue }[arxiv: Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm](https://arxiv.org/pdf/2309.02340.pdf)
+    : [github](https://github.com/ai4netzero/Infinite_Texture_GANs)
+
+*
 : [GAN tutorial on Medium](https://github.com/mpstewart1/GAN-Tutorial)
 
-5
+*
 : [Deep Convolutional Generative Adversarial Networks](https://d2l.ai/chapter_generative-adversarial-networks/dcgan.html)
 
-6
-:
+*
 : [Generative Adversarial Networks (d2l)](https://d2l.ai/chapter_generative-adversarial-networks/index.html)
