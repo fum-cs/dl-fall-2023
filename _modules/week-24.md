@@ -1,13 +1,24 @@
 ---
 title: Projects & Seminars
 ---
+
+## DeepMid
 * [FunSearch: Making new discoveries in mathematical sciences using Large Language Models](https://deepmind.google/discover/blog/funsearch-making-new-discoveries-in-mathematical-sciences-using-large-language-models/)
   - [Github](https://github.com/google-deepmind/funsearch)
 * [MuZero, AlphaZero, and AlphaDev: Optimizing computer systems](https://deepmind.google/impact/optimizing-computer-systems-with-more-generalized-ai-tools/)
   - [Faster sorting algorithms discovered using deep reinforcement learning](https://www.nature.com/articles/s41586-023-06004-9)
   - [Github](https://github.com/deepmind/alphadev)
+
+## Gaussian Processes  
 * [Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
   - [github code](https://github.com/HIPS/autograd/blob/master/examples/gaussian_process.py)
+  - [Variational Auto-encoded Deep Gaussian Processes](https://arxiv.org/abs/1511.06455)
+  - [Gaussian Process Latent Variable Model](https://pyro.ai/examples/gplvm.html)
+
+## PINNs
+* [PID-GAN: A GAN Framework based on a Physics-informed Discriminator for Uncertainty Quantification with Physics](https://arxiv.org/pdf/2106.02993.pdf)
+* [Revisiting PINNs: Generative Adversarial Physics-informed Neural Networks and Point-weighting Methol](https://arxiv.org/pdf/2205.08754.pdf)
+
 
 * [Real-Time Fluid Dynamics for Games](https://www.josstam.com/_files/ugd/cf1fd6_9989229efbd34a26ba5ccd913721a2ac.pdf)
 

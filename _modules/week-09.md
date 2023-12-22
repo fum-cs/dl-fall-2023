@@ -2,6 +2,8 @@
 title: Generative Adversarial Networks
 ---
 
+## 1402/10/03
+
 1
 : [Generative Adversarial Networks (Persian)](https://howsam.org/generative-adversarial-network/)
 
