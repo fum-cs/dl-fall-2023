@@ -19,10 +19,18 @@ title: Generative Adversarial Networks
 : [Section 12.4 of Deep Learning with Python: Generative adversarial networks](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD)
     : **Colab**{: .label .label-green }[Generative adversarial networks](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter12_part05_gans.ipynb)
 
+5
+: [GFPGAN aims at developing a Practical Algorithm for Real-world Face Restoration](https://github.com/TencentARC/GFPGAN)
+
 **Further Reading**{: .label .label-yellow }
 
-* **Paper**{: .label .label-blue }[arxiv: Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm](https://arxiv.org/pdf/2309.02340.pdf)
+*
+: **Paper**{: .label .label-blue }[arxiv: Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm](https://arxiv.org/pdf/2309.02340.pdf)
     : [github](https://github.com/ai4netzero/Infinite_Texture_GANs)
+
+* [GAN Zoo: A list of all named GANs](https://github.com/hindupuravinash/the-gan-zoo)
+
+* [GAN applications](https://github.com/nashory/gans-awesome-applications)
 
 *
 : [GAN tutorial on Medium](https://github.com/mpstewart1/GAN-Tutorial)
