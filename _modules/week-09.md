@@ -25,19 +25,18 @@ title: Generative Adversarial Networks
 
 **Further Reading**{: .label .label-yellow }
 
-*
-: **Paper**{: .label .label-blue }[arxiv: Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm](https://arxiv.org/pdf/2309.02340.pdf)
-    : [github](https://github.com/ai4netzero/Infinite_Texture_GANs)
+* StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks [Wiki](https://en.wikipedia.org/wiki/StyleGAN)
+    - [StyleGAN - Official TensorFlow Implementation](https://github.com/NVlabs/stylegan)
 
 * [GAN Zoo: A list of all named GANs](https://github.com/hindupuravinash/the-gan-zoo)
 
 * [GAN applications](https://github.com/nashory/gans-awesome-applications)
 
-*
-: [GAN tutorial on Medium](https://github.com/mpstewart1/GAN-Tutorial)
+* [GAN tutorial on Medium](https://github.com/mpstewart1/GAN-Tutorial)
 
-*
-: [Deep Convolutional Generative Adversarial Networks](https://d2l.ai/chapter_generative-adversarial-networks/dcgan.html)
+* [Deep Convolutional Generative Adversarial Networks](https://d2l.ai/chapter_generative-adversarial-networks/dcgan.html)
 
-*
-: [Generative Adversarial Networks (d2l)](https://d2l.ai/chapter_generative-adversarial-networks/index.html)
+* [Generative Adversarial Networks (d2l)](https://d2l.ai/chapter_generative-adversarial-networks/index.html)
+
+<!-- **Paper**{: .label .label-blue }[arxiv: Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm](https://arxiv.org/pdf/2309.02340.pdf)
+    - [github](https://github.com/ai4netzero/Infinite_Texture_GANs) -->
