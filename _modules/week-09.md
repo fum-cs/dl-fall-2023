@@ -21,6 +21,7 @@ title: Generative Adversarial Networks
 
 5
 : [GFPGAN aims at developing a Practical Algorithm for Real-world Face Restoration](https://github.com/TencentARC/GFPGAN)
+    : **Colab**{: .label .label-green }[GFPGAN_inference](https://colab.research.google.com/github/fum-cs/dl/blob/main/code/GAN/GFPGAN_inference.ipynb)
 
 **Further Reading**{: .label .label-yellow }
 
