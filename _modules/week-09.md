@@ -27,6 +27,7 @@ title: Generative Adversarial Networks
 
 * StyleGAN: A Style-Based Generator Architecture for Generative Adversarial Networks [Wiki](https://en.wikipedia.org/wiki/StyleGAN)
     - [StyleGAN - Official TensorFlow Implementation](https://github.com/NVlabs/stylegan)
+    - [A Gentle Introduction to StyleGAN the Style Generative Adversarial Network](https://machinelearningmastery.com/introduction-to-style-generative-adversarial-network-stylegan/)
 
 * [GAN Zoo: A list of all named GANs](https://github.com/hindupuravinash/the-gan-zoo)
 
