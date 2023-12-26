@@ -22,7 +22,7 @@ title: Miscellaneous
 
 * [Neural Combinatorial Optimization with Heavy Decoder: Toward Large Scale Generalization](https://paperswithcode.com/paper/neural-combinatorial-optimization-with-heavy)
 
-
+* [Attention, Learn to Solve Routing Problems](https://openreview.net/forum?id=ByxBFsRqYm)
 
 * [Discovering novel algorithms with AlphaTensor](https://deepmind.google/discover/blog/discovering-novel-algorithms-with-alphatensor/)
     - [Github](https://github.com/google-deepmind/alphatensor)
