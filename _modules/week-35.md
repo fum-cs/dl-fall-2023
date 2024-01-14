@@ -28,3 +28,6 @@ title: Miscellaneous
     - [Github](https://github.com/google-deepmind/alphatensor)
 
 * [Efficient Joint Optimization of Layer-Adaptive Weight Pruning in Deep Neural Networks](https://paperswithcode.com/paper/efficient-joint-optimization-of-layer)   
+
+* [What autodiff is?](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/readings/L06%20Automatic%20Differentiation.pdf)
+    - [Autograd](https://github.com/HIPS/autograd/tree/master)

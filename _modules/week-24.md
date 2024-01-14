@@ -15,7 +15,7 @@ title: Projects & Seminars
   - [Variational Auto-encoded Deep Gaussian Processes](https://arxiv.org/abs/1511.06455)
   - [Gaussian Process Latent Variable Model](https://pyro.ai/examples/gplvm.html)
 
-## PINNs
+## PINNs & GANs
 * [PID-GAN: A GAN Framework based on a Physics-informed Discriminator for Uncertainty Quantification with Physics](https://arxiv.org/pdf/2106.02993.pdf)
 * [Revisiting PINNs: Generative Adversarial Physics-informed Neural Networks and Point-weighting Methol](https://arxiv.org/pdf/2205.08754.pdf)
 
@@ -26,7 +26,7 @@ title: Projects & Seminars
   - [Image to LaTeX](https://github.com/kingyiusuen/image-to-latex) using CNN & RNN
   - [im2latex tensorflow implementation](https://github.com/ritheshkumar95/im2latex-tensorflow)
 
-* [ Knight Tour Problem Using Neural Networks](https://github.com/NiloofarShahbaz/knight-tour-neural-network)
+* [Knight Tour Problem Using Neural Networks](https://github.com/NiloofarShahbaz/knight-tour-neural-network)
 
 * [Deployment a DL app](https://fullstackdeeplearning.com/course/2022/lecture-5-deployment/)  
 
