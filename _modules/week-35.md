@@ -1,7 +1,7 @@
 ---
 title: Miscellaneous
 ---
-* [paperswithcode: combinatorial-optimizatio](https://paperswithcode.com/task/combinatorial-optimization/latest)
+* [paperswithcode: combinatorial-optimization](https://paperswithcode.com/task/combinatorial-optimization/latest)
 
 * [Combinatorial optimization with physics-inspired graph neural networks](https://www.nature.com/articles/s42256-022-00468-6)
     - [Combinatorial Optimization with Graph Neural Networks](https://github.com/amazon-science/co-with-gnns-example/)
@@ -29,5 +29,5 @@ title: Miscellaneous
 
 * [Efficient Joint Optimization of Layer-Adaptive Weight Pruning in Deep Neural Networks](https://paperswithcode.com/paper/efficient-joint-optimization-of-layer)   
 
-* [What autodiff is?](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/readings/L06%20Automatic%20Differentiation.pdf)
-    - [Autograd](https://github.com/HIPS/autograd/tree/master)
+<!-- * [What autodiff is?](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/readings/L06%20Automatic%20Differentiation.pdf)
+    - [Autograd](https://github.com/HIPS/autograd/tree/master) -->
