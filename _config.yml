@@ -19,6 +19,8 @@ description: DL Course website, Fall 2023, Dr. M. Amintoosi
 author: M. Amintoosi
 baseurl: '/dl' # the subpath of your site, e.g. /blog
 url: 'https://fum-cs.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/fum-cs-logo.png"
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
