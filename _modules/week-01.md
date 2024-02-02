@@ -2,7 +2,7 @@
 title: Getting Started
 ---
 
-This course uses various resources to teach the concepts and applications of deep learning. Some of those are mentioned in [About Page](about.md). The main text bokk is the follwoing book:
+This course uses various resources to teach the concepts and applications of deep learning. Some of those are mentioned in [About Page](about.md). The main text is the follwoing book:
 
 Main Text
 : [Deep Learning with Python](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD), by François Chollet, Second Edition, 2021
