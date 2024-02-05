@@ -2,9 +2,9 @@
 title: Getting Started
 ---
 
-This course uses various resources to teach the concepts and applications of deep learning. Some of those are mentioned in [About Page](about.md). The main text is the follwoing book:
+This course uses various resources to teach the concepts and applications of deep learning. Some of those are mentioned in [About Page](about.md). This course leverages a variety of resources to impart the concepts and practical applications of deep learning. Some of these resources are highlighted on the About Page. The primary reference is Deep Learning with Python, authored by François Chollet in its second edition (2021).
 
-Main Text
+Book
 : [Deep Learning with Python](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD), by François Chollet, Second Edition, 2021
    : [Jupyter notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
