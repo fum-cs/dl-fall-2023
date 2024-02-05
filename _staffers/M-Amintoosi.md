@@ -6,4 +6,4 @@ website: https://mamintoosi.github.io/
 photo: M-Amintoosi.jpg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](https://calendly.com/m-amintoosi/30min){: .btn .btn-outline }
