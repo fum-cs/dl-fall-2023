@@ -59,7 +59,7 @@ We will follow the standard of Faculty of Mathematical Sciences approach:
 *  You can talk to others about the algorithm(s) to be used to solve a homework problem; as long as you then mention their name(s) on the work you submit
 
 ## Questions?
-I will be having office hours for this course on Monday (10:00 AM--11:30 AM). If this is not convenient, email me at m.amintoosi@um.ac.ir or talk to me after class.
+I will be having office hours for this course on Monday (10:00 AM--11:30 AM). If this is not convenient, email me at m.amintoosi@um.ac.ir, talk to me after class or [schedule an appointment via Calendly](https://calendly.com/m-amintoosi/30min).
 
 ## Our Slack workspace
 Come and [join our Slack](https://join.slack.com/t/fum-cs/shared_invite/zt-1zntzuw2t-JOWbsyQdGASNz~40AhWy_Q) group to engage in course discussions.
