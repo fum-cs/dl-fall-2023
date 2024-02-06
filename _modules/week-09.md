@@ -41,3 +41,10 @@ title: Generative Adversarial Networks
 
 <!-- **Paper**{: .label .label-blue }[arxiv: Generating Infinite-Resolution Texture using GANs with Patch-by-Patch Paradigm](https://arxiv.org/pdf/2309.02340.pdf)
     - [github](https://github.com/ai4netzero/Infinite_Texture_GANs) -->
+
+## 1402/10/10
+
+* Midterm
+
+    - Theory Section (Paper-based): [PDF](misc/DL-Mid.pdf)
+    - [Coding Section (System-based)](https://vu.um.ac.ir/mod/assign/view.php?id=459368)

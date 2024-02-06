@@ -2,6 +2,8 @@
 title: Computer Vision
 ---
 
+## Winter 1402
+
 1
 : [Computer Vision](https://d2l.ai/chapter_computer-vision/index.html)
 
@@ -27,3 +29,7 @@ Whether it is medical diagnosis, self-driving vehicles, camera monitoring, or sm
 
 * [How to Find Wally with a Neural Network?](https://github.com/tadejmagajna/HereIsWally)
     - Use GAN to produce a chaotic scenes including Wally
+
+## 1402/11/04
+
+* Final Exam [PDF](misc/DL-Final.pdf)
