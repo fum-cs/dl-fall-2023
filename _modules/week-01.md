@@ -8,7 +8,8 @@ Book
 : [Deep Learning with Python](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD), by François Chollet, Second Edition, 2021
    : [Jupyter notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
-1402/07/12
+## 1402/07/12
+
 : Intro to Tensors, Auto Grad & Gradient Descent
   : Programming
 

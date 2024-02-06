@@ -2,7 +2,7 @@
 title: Autograd, Continue ...
 ---
 
-1402/07/16
+## 1402/07/16
 
 * Previous Codes
 * [Using autograd to Solve a Math Puzzle](https://machinelearningmastery.com/using-autograd-in-tensorflow-to-solve-a-regression-problem/)
