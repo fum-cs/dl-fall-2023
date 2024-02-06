@@ -45,10 +45,11 @@ This course uses various resources to teach the concepts and applications of dee
 - [**Learn PyTorch**](https://www.learnpytorch.io/): A website that provides tutorials and examples on how to use PyTorch for various deep learning tasks.
 
 ## Grading:
-* Homework – 40% <br>
-* Quizes – 40% <br>
+* Homework – 20% <br>
+* Midterm – 30% <br>
 — Will consist of mathematical problems and/or programming assignments.
-* Endterm – 20%
+* Seminars - 10%
+* Final – 40%
 
 ## Academic Honor Code:
 Honesty and integrity are vital elements of the academic works. All your submitted assignments must be entirely your own (or your own group's).
@@ -62,13 +63,3 @@ I will be having office hours for this course on Monday (10:00 AM--11:30 AM). I
 
 ## Our Slack workspace
 Come and [join our Slack](https://join.slack.com/t/fum-cs/shared_invite/zt-1zntzuw2t-JOWbsyQdGASNz~40AhWy_Q) group to engage in course discussions.
-
-## Other links:
-
-* [Community Portal for Automatic Differentiation](https://www.autodiff.org/)
-<!-- ## Lecture
-
-## Resources
-
-## Assignments -->
-

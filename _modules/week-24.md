@@ -41,3 +41,4 @@ title: Projects & Seminars
 * [Hand Gesture Recognition](https://techvidvan.com/tutorials/hand-gesture-recognition-tensorflow-opencv/)
 
 *‌ [Advanced automatic differentiation](https://www.tensorflow.org/guide/advanced_autodiff)
+* [Community Portal for Automatic Differentiation](https://www.autodiff.org/)
