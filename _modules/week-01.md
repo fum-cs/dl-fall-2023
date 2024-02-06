@@ -4,11 +4,11 @@ title: Getting Started
 
  This course leverages a variety of resources to impart the concepts and practical applications of deep learning. Some of these resources are highlighted on the [About Page](about.md). The primary reference is Deep Learning with Python, authored by François Chollet in its second edition (2021).
 
+## 1402/07/12
+
 Book
 : [Deep Learning with Python](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD), by François Chollet, Second Edition, 2021
    : [Jupyter notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
-
-## 1402/07/12
 
 : Intro to Tensors, Auto Grad & Gradient Descent
   : Programming
