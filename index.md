@@ -4,6 +4,7 @@ title: Home / Lectures
 nav_order: 1
 description: Listing of course modules and topics.
 currWeekNumber: 1
+tags: [Computer Science Dept., Ferdowsi University of Mashhad, علوم کامپیوتر دانشگاه فردوسی مشهد]
 ---
 
 {: .mb-2 }
