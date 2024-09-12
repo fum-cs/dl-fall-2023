@@ -45,6 +45,3 @@ title: Generative Adversarial Networks
 ## 1402/10/10
 
 * Midterm
-
-    - Theory Section (Paper-based): [PDF](misc/DL-Mid.pdf)
-    - [Coding Section (System-based)](https://vu.um.ac.ir/mod/assign/view.php?id=459368)

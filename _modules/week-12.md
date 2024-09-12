@@ -32,4 +32,4 @@ Whether it is medical diagnosis, self-driving vehicles, camera monitoring, or sm
 
 ## 1402/11/04
 
-* Final Exam [PDF](misc/DL-Final.pdf)
+* Final Exam 
