@@ -9,7 +9,7 @@ title: Generative Adversarial Networks
 
 2
 : [How to Develop a 1D Generative Adversarial Network From Scratch in Keras](https://machinelearningmastery.com/how-to-develop-a-generative-adversarial-network-for-a-1-dimensional-function-from-scratch-in-keras/)
-    : **Colab**{: .label .label-green }[GAN-01](https://colab.research.google.com/github/fum-cs/dl/blob/main/code/GAN/GAN-01.ipynb)
+    : **Colab**{: .label .label-green }[GAN-01](https://colab.research.google.com/github/fum-cs/dl-fall-2023/blob/main/code/GAN/GAN-01.ipynb)
 
 3
 : [Section 12.4 of Deep Learning with Python: Variational Autoencoders](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD)
@@ -21,7 +21,7 @@ title: Generative Adversarial Networks
 
 5
 : [GFPGAN aims at developing a Practical Algorithm for Real-world Face Restoration](https://github.com/TencentARC/GFPGAN)
-    : **Colab**{: .label .label-green }[GFPGAN_inference](https://colab.research.google.com/github/fum-cs/dl/blob/main/code/GAN/GFPGAN_inference.ipynb)
+    : **Colab**{: .label .label-green }[GFPGAN_inference](https://colab.research.google.com/github/fum-cs/dl-fall-2023/blob/main/code/GAN/GFPGAN_inference.ipynb)
 
 **Further Reading**{: .label .label-yellow }
 

@@ -8,11 +8,11 @@ title: Convolutional Neural Networks
 * [Classical Convolutional Neural Networks](https://connectjaya.com/classical-convolutional-neural-networkscnn/)
 * [Chapter 8 of Deep Learning with Python: Introduction to deep learning for computer vision](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD)
 
-**Colab**{: .label .label-green }[Play with Convs & Filters](https://colab.research.google.com/github/fum-cs/dl/blob/main/code/conv_play.ipynb)
+**Colab**{: .label .label-green }[Play with Convs & Filters](https://colab.research.google.com/github/fum-cs/dl-fall-2023/blob/main/code/conv_play.ipynb)
 
 **Colab**{: .label .label-green }[Image Filtering](https://colab.research.google.com/github/mamintoosi-cs/pytorch-workshop/blob/master/App_Image.ipynb)
 
-**Colab**{: .label .label-green }[Large-Scale Constrained Linear Least-Squares](https://colab.research.google.com/github/fum-cs/dl/blob/main/code/Large-Scale-Constrained-Linear-Least-Squares.ipynb)
+**Colab**{: .label .label-green }[Large-Scale Constrained Linear Least-Squares](https://colab.research.google.com/github/fum-cs/dl-fall-2023/blob/main/code/Large-Scale-Constrained-Linear-Least-Squares.ipynb)
 
 **Colab**{: .label .label-green }[Chapter 8: Introduction to deep learning for computer vision](https://colab.research.google.com/github/fchollet/deep-learning-with-python-notebooks/blob/master/chapter08_intro-to-dl-for-computer-vision.ipynb)
 

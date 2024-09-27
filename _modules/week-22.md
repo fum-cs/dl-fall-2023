@@ -4,7 +4,7 @@ title: Physics Informed Neural Network
 
 * [Physics Informed Neural Network for Computer Vision and Medical Imaging](https://collab.dvb.bayern/display/TUMdlma/Physics+Informed+Neural+Network+for+Computer+Vision+and+Medical+Imaging)
     - [1D harmonic oscillator physics-informed neural network, PyTorch](https://github.com/benmoseley/harmonic-oscillator-pinn)
-    - **Colab**{: .label .label-green }[1D harmonic oscillator PINNs](https://colab.research.google.com/github/fum-cs/dl/blob/main/code/PINNs/Harmonic-oscillator-PINN.ipynb)
+    - **Colab**{: .label .label-green }[1D harmonic oscillator PINNs](https://colab.research.google.com/github/fum-cs/dl-fall-2023/blob/main/code/PINNs/Harmonic-oscillator-PINN.ipynb)
 
 * [Other papers about PINNs](https://github.com/bitzhangcy/Neural-PDE-Solver?tab=readme-ov-file#image)
 * [Implementation of PINNs in TensorFlow 2](https://github.com/ShotaDeguchi/PINN_TF2)
