@@ -4,7 +4,7 @@ title: Convolutional Neural Networks
 
 ## 1402/09/08, 12, 19, 22
 
-* [Slides](https://mamintoosi.github.io/slides/topics/DL-TF/Chapter8-Introductio-to-Deep-learning-for-Computer-Vision.html)
+* [Slides](https://mamintoosi-cs.github.io/slides/topics/DL-TF/Chapter8-Introductio-to-Deep-learning-for-Computer-Vision.html)
 * [Classical Convolutional Neural Networks](https://connectjaya.com/classical-convolutional-neural-networkscnn/)
 * [Chapter 8 of Deep Learning with Python: Introduction to deep learning for computer vision](https://fumdrive.um.ac.ir/index.php/s/tbdbtwzCkqbMoGD)
 

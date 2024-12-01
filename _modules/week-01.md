@@ -19,7 +19,7 @@ Book
 **Further Reading**{: .label .label-yellow }
 * [**TensorFlow vs PyTorch**](https://www.knowledgehut.com/blog/data-science/pytorch-vs-tensorflow): TensorFlow vs PyTorch: Deep Learning Frameworks, 2023
 
-* [**My PyTorch Workshop**](https://mamintoosi.github.io/slides/topics/DL-HSU/DeepLearning-Workshop-ESLA2022.html#/)
+* [**My PyTorch Workshop**](https://mamintoosi-cs.github.io/slides/topics/DL-HSU/DeepLearning-Workshop-ESLA2022.html#/)
 
 * [**Learn PyTorch**](https://www.learnpytorch.io/): A website that provides tutorials and examples on how to use PyTorch for various deep learning tasks.
 

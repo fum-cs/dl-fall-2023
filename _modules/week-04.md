@@ -14,7 +14,7 @@ The deadline for the assignment submission has been extended to 1402/08/12 with 
 **HW2**{: .label .label-red } [Generate Persian Sudoku](https://vu.um.ac.ir/mod/assign/view.php?id=454185), due: ~~1402/08/08~~ Extended until 1402/08/13
 
 **Further Reading**{: .label .label-yellow }
-* [Algorithm X](https://mamintoosi.github.io/slides/topics/DLX/DLX.html)
+* [Algorithm X](https://mamintoosi-cs.github.io/slides/topics/DLX/DLX.html)
 
 
 
