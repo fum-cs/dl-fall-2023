@@ -10,3 +10,8 @@ node_modules/
 vendor/
 code/plots/__pycache__/
 code/output/*
+.ipynb_checkpoints/
+_sources/
+_build/
+*.pt
+*.pkl
